@@ -1,0 +1,24 @@
+.opinions {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    .opinions__slider {
+        margin: auto;
+        width: 100%;
+        .slider--item {
+            margin: auto;
+            width: 100%;
+            .slider--item-txt {
+                margin: auto;
+                width: 100%;
+                position: relative;
+                .rotate {
+                    position: absolute;
+                    transform: rotate(180deg);
+                    bottom: 0;
+                    right: 10%;
+                }
+            }
+        }
+    }
+}

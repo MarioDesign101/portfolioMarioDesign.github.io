@@ -1,0 +1,24 @@
+.opinions {
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+}
+.opinions .opinions__slider {
+  margin: auto;
+  width: 100%;
+}
+.opinions .opinions__slider .slider--item {
+  margin: auto;
+  width: 100%;
+}
+.opinions .opinions__slider .slider--item .slider--item-txt {
+  margin: auto;
+  width: 100%;
+  position: relative;
+}
+.opinions .opinions__slider .slider--item .slider--item-txt .rotate {
+  position: absolute;
+  transform: rotate(180deg);
+  bottom: 0;
+  right: 10%;
+}/*# sourceMappingURL=cursos.css.map */
